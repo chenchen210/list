@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chenchen210/list/issues"
   },
-  "homepage": "https://github.com/chenchen210/list#readme"
+  "homepage": "https://github.com/chenchen210/list#readme",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-eslint": "^22.0.0"
+  }
 }
