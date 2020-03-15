@@ -1,0 +1,19 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenchen210/list.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenchen210/list/issues"
+  },
+  "homepage": "https://github.com/chenchen210/list#readme"
+}
